@@ -1,4 +1,4 @@
-# A collection of awesome B4X-related material I have found on the B4X forum.
+# A collection of awesome posts I have found on the B4X forum.
 
 - Generators
   - [Generate Random UUID](https://www.b4x.com/android/forum/threads/guid-vs-uuid-can-i-use-guid-as-uuid.110970/#post-692302)
